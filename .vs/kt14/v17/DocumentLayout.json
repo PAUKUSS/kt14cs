@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Biars\\source\\repos\\kt14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5162070B-2A67-4E3A-9969-5D3A3CBC6D8C}|kt14\\kt14.csproj|c:\\users\\biars\\source\\repos\\kt14\\kt14\\kt14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5162070B-2A67-4E3A-9969-5D3A3CBC6D8C}|kt14\\kt14.csproj|solutionrelative:kt14\\kt14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5162070B-2A67-4E3A-9969-5D3A3CBC6D8C}|kt14\\kt14.csproj|c:\\users\\biars\\source\\repos\\kt14\\kt14\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5162070B-2A67-4E3A-9969-5D3A3CBC6D8C}|kt14\\kt14.csproj|solutionrelative:kt14\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5162070B-2A67-4E3A-9969-5D3A3CBC6D8C}|kt14\\kt14.csproj|c:\\users\\biars\\source\\repos\\kt14\\kt14\\wordfrequencytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5162070B-2A67-4E3A-9969-5D3A3CBC6D8C}|kt14\\kt14.csproj|solutionrelative:kt14\\wordfrequencytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5162070B-2A67-4E3A-9969-5D3A3CBC6D8C}|kt14\\kt14.csproj|c:\\users\\biars\\source\\repos\\kt14\\kt14\\expressioncalculatortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5162070B-2A67-4E3A-9969-5D3A3CBC6D8C}|kt14\\kt14.csproj|solutionrelative:kt14\\expressioncalculatortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5162070B-2A67-4E3A-9969-5D3A3CBC6D8C}|kt14\\kt14.csproj|c:\\users\\biars\\source\\repos\\kt14\\kt14\\countryinfotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5162070B-2A67-4E3A-9969-5D3A3CBC6D8C}|kt14\\kt14.csproj|solutionrelative:kt14\\countryinfotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5162070B-2A67-4E3A-9969-5D3A3CBC6D8C}|kt14\\kt14.csproj|c:\\users\\biars\\source\\repos\\kt14\\kt14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5162070B-2A67-4E3A-9969-5D3A3CBC6D8C}|kt14\\kt14.csproj|solutionrelative:kt14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Biars\\source\\repos\\kt14\\kt14\\Program.cs",
+              "RelativeDocumentMoniker": "kt14\\Program.cs",
+              "ToolTip": "C:\\Users\\Biars\\source\\repos\\kt14\\kt14\\Program.cs",
+              "RelativeToolTip": "kt14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:09:38.646Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kt14",
+              "DocumentMoniker": "C:\\Users\\Biars\\source\\repos\\kt14\\kt14\\kt14.csproj",
+              "RelativeDocumentMoniker": "kt14\\kt14.csproj",
+              "ToolTip": "C:\\Users\\Biars\\source\\repos\\kt14\\kt14\\kt14.csproj",
+              "RelativeToolTip": "kt14\\kt14.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T07:13:29.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "text.txt",
+              "DocumentMoniker": "C:\\Users\\Biars\\source\\repos\\kt14\\kt14\\text.txt",
+              "RelativeDocumentMoniker": "kt14\\text.txt",
+              "ToolTip": "C:\\Users\\Biars\\source\\repos\\kt14\\kt14\\text.txt",
+              "RelativeToolTip": "kt14\\text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T07:18:53.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountryInfoTask.cs",
+              "DocumentMoniker": "C:\\Users\\Biars\\source\\repos\\kt14\\kt14\\CountryInfoTask.cs",
+              "RelativeDocumentMoniker": "kt14\\CountryInfoTask.cs",
+              "ToolTip": "C:\\Users\\Biars\\source\\repos\\kt14\\kt14\\CountryInfoTask.cs",
+              "RelativeToolTip": "kt14\\CountryInfoTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:14:17.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpressionCalculatorTask.cs",
+              "DocumentMoniker": "C:\\Users\\Biars\\source\\repos\\kt14\\kt14\\ExpressionCalculatorTask.cs",
+              "RelativeDocumentMoniker": "kt14\\ExpressionCalculatorTask.cs",
+              "ToolTip": "C:\\Users\\Biars\\source\\repos\\kt14\\kt14\\ExpressionCalculatorTask.cs",
+              "RelativeToolTip": "kt14\\ExpressionCalculatorTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:13:48.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordFrequencyTask.cs",
+              "DocumentMoniker": "C:\\Users\\Biars\\source\\repos\\kt14\\kt14\\WordFrequencyTask.cs",
+              "RelativeDocumentMoniker": "kt14\\WordFrequencyTask.cs",
+              "ToolTip": "C:\\Users\\Biars\\source\\repos\\kt14\\kt14\\WordFrequencyTask.cs",
+              "RelativeToolTip": "kt14\\WordFrequencyTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:13:23.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

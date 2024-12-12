@@ -1,0 +1,15 @@
+C:\Users\Biars\source\repos\kt14\kt14\bin\Debug\net8.0\kt14.exe
+C:\Users\Biars\source\repos\kt14\kt14\bin\Debug\net8.0\kt14.deps.json
+C:\Users\Biars\source\repos\kt14\kt14\bin\Debug\net8.0\kt14.runtimeconfig.json
+C:\Users\Biars\source\repos\kt14\kt14\bin\Debug\net8.0\kt14.dll
+C:\Users\Biars\source\repos\kt14\kt14\bin\Debug\net8.0\kt14.pdb
+C:\Users\Biars\source\repos\kt14\kt14\obj\Debug\net8.0\kt14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biars\source\repos\kt14\kt14\obj\Debug\net8.0\kt14.AssemblyInfoInputs.cache
+C:\Users\Biars\source\repos\kt14\kt14\obj\Debug\net8.0\kt14.AssemblyInfo.cs
+C:\Users\Biars\source\repos\kt14\kt14\obj\Debug\net8.0\kt14.csproj.CoreCompileInputs.cache
+C:\Users\Biars\source\repos\kt14\kt14\obj\Debug\net8.0\kt14.dll
+C:\Users\Biars\source\repos\kt14\kt14\obj\Debug\net8.0\refint\kt14.dll
+C:\Users\Biars\source\repos\kt14\kt14\obj\Debug\net8.0\kt14.pdb
+C:\Users\Biars\source\repos\kt14\kt14\obj\Debug\net8.0\kt14.genruntimeconfig.cache
+C:\Users\Biars\source\repos\kt14\kt14\obj\Debug\net8.0\ref\kt14.dll
+C:\Users\Biars\source\repos\kt14\kt14\bin\Debug\net8.0\text.txt
